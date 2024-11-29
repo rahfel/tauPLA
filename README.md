@@ -14,7 +14,7 @@ This repository provides a detailed workflow of the analytical pipeline used for
 
 ## Quality control of single-nucleus data <a name="qc"></a>
 
-Ensuring data quality is critical for downstream analysis and biological interpretation. For this study, stringent quality control (QC) measures were applied to single-nucleus RNA-seq data to filter out low-quality nuclei and technical artifacts. The steps used to carry out QC can be found here:
+For this study, stringent quality control (QC) measures were applied to single-nucleus RNA-seq data to filter out low-quality nuclei and technical artifacts. The steps used to carry out QC can be found here:
 
 
 ## Differential Expression Analysis <a name="dea"></a>
