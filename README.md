@@ -51,6 +51,6 @@ Steps taken to carry out pseudotime analysis. using monocle3
 
 ## Pseudotime Analysis <a name="pseudotime-analysis"></a>
 
-To capture the dynamic transcriptional changes associated with tau pathology progression, pseudotime analysis was conducted using the `monocle3` package. Steps found [here: Monocle script]() 
+To capture the dynamic transcriptional changes associated with tau pathology progression, pseudotime analysis was conducted using the `monocle3` package. Steps found [here]() 
 
 
