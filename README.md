@@ -40,7 +40,7 @@ To interpret the biological significance of the DEGs, pathway enrichment analysi
 
 ## Genetic Enrichment and Association <a name="genetic-enrichment"></a>
 
-To link the transcriptional signatures with genetic risk factors for AD, we performed genetic enrichment analysis using linkage disequilibrium score regression (LDSC). The steps can be found [here LDSC Analysis Script](https://github.com/rahfel/VPA/blob/1ab5f6a70458a1c9c4dad33ca1d4b17e84460d1a/Codes/LDSC_ANALYSIS.R#L1-L50)
+To link the transcriptional signatures with genetic risk factors for AD, we performed genetic enrichment analysis using linkage disequilibrium score regression (LDSC). The steps can be found [here](https://github.com/rahfel/VPA/blob/1ab5f6a70458a1c9c4dad33ca1d4b17e84460d1a/Codes/LDSC_ANALYSIS.R#L1-L50)
 
 
 ## Pseudotime Aanalysis
