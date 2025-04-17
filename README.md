@@ -1,7 +1,7 @@
 
 # snRNA-Seq data Processing Pipelines 
 
-This repository provides a detailed workflow of the analytical pipeline used for processing single-nucleus RNA-sequencing (snRNA-seq) data in the study titled **"Early-stage seeding tau multimers drive cell type-specific transcriptional signatures."** The steps outlined here were designed to ensure rigorous data preprocessing, robust differential expression analysis, and biologically meaningful insights, all of which are integral to the study's findings.
+This repository provides a detailed workflow of the analytical pipeline used for processing single-nucleus RNA-sequencing (snRNA-seq) data in the study titled **"Early-stage seeding tau multimers drive cell type-specific transcriptional signatures."** The steps outlined here were designed to ensure rigorous data preprocessing, robust differential expression analysis, and biologically meaningful insights, all of which are integral to the study's findings. The RNA-sequencing data can be accessed through the Gene Expression Omnibus (accession ID: GSE293791).
 
 
 ## Table of Contents
